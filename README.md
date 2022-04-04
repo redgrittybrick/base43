@@ -32,7 +32,7 @@ Acknowledgements
 ================
 
 Based on https://github.com/btcsuite/btcutil/blob/v1.0.2/base58/base58.go
-which is used in amended form here under an ISC licence
+which is used in amended form here under an [ISC licence](https://github.com/btcsuite/btcutil/blob/v1.0.2/LICENSE)
 The original base58.go code is
 Copyright (c) 2013-2017 The btcsuite developers
 Copyright (c) 2016-2017 The Lightning Network Developers
