@@ -27,3 +27,13 @@ Note that the base43 tool is designed to be able to be used in a pipeline
 So the way to specifiy input from a file is to use your command-shell's
 input-redirection operator `< filename`. The way to get output  into a file is
 to use your command-shell's output redirection operator `> filename`.
+
+Acknowledgements
+================
+
+Based on https://github.com/btcsuite/btcutil/blob/v1.0.2/base58/base58.go
+which is used in amended form here under an ISC licence
+The original base58.go code is
+Copyright (c) 2013-2017 The btcsuite developers
+Copyright (c) 2016-2017 The Lightning Network Developers
+ 
